@@ -1,0 +1,3 @@
+secret.txt
+fatal: unable to access 'https://github.com/sdvxmow/git_tutorial.git/':
+ SSL certificate problem: unable to get local issuer certificate
